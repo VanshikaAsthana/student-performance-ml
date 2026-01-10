@@ -58,6 +58,16 @@ Performance trends matter more than absolute scores
 
 Models can show bias if not evaluated across subgroups
 
+## 🤖 Modeling Summary
+
+Converted final grade into pass/fail classification
+
+Trained Logistic Regression with class balancing
+
+Evaluated using recall and F1-score
+
+Interpreted predictions using model coefficients
+
 ## ⚠️ Ethical Considerations
 
 Predictions should assist educators, not penalize students
